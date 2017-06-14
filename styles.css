@@ -1,0 +1,48 @@
+body{
+	background-image: url('netflix.jpg');
+	font-family:sans-serif;
+	padding: 0px 5px;
+}
+.menu{
+	padding-top:5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#logo{
+	width: 180px;
+	height: 85px;
+	float: left;
+	margin-top:
+}
+#botao1{
+	font-size: 18px;
+	width: 120px;
+	height: 35px;
+	float: right;
+	background-color: red;
+    color: white;
+	border: none;
+	margin-top: 15px;
+	border-radius: 3px;
+}
+.chamada{
+ font-size:70px;
+
+ font-weight: bolder;
+ margin-top: 350px;
+ color: white;
+}
+#botao2{
+	width: 360px;
+	height: 75px;
+	float: bottom;
+	float: left;
+	background-color: red;
+    color: white;
+	border: none;
+	margin-bottom: 5px;
+	margin-left: 35px;
+	border-radius: 3px;
+	font-size: 30px;
+
+}
